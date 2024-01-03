@@ -1,0 +1,8 @@
+.primary{
+    /* color: orange; */
+    @apply text-orange-500
+}
+
+.font-xl {
+    font-size: 72px;
+}
